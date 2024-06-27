@@ -1,9 +1,9 @@
 function Home() {
-  return <h1>Oi,minha gatinha! Amo-te,minha princesa.:) </h1>;
-}
-
-function Teste() {
-  console.log(Teste);
+  return (
+    <>
+      <h1>Em construção...</h1>
+    </>
+  );
 }
 
 export default Home;
